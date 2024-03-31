@@ -4,5 +4,5 @@
 *.swp
 *.un~
 */db.sqlite3
-*/env/*
+env/*
 
