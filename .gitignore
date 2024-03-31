@@ -1,0 +1,8 @@
+# Untracked Files:
+
+*.swo
+*.swp
+*.un~
+db.sqlite3
+env/*
+
